@@ -1,0 +1,57 @@
+html{
+    position: relative;
+
+}
+
+header a{
+    color: aliceblue;
+}
+
+body {
+    margin-bottom: 120px;
+    margin-top: 25px ;
+
+}
+
+hr{
+    width:200px;
+    border-top :5pX solid#555;
+}
+
+section{
+    min-height: 400px;
+}
+
+.contact{
+    min-height: 600px;
+    margin-bottom: 10px;
+}
+
+.paket2{
+    margin-bottom: 500px;
+    min-height: 600px;
+}
+
+
+footer {
+
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    background-color: #333;
+    padding-top: 10px
+    
+    
+}
+
+footer p {
+    color :#aaa;
+    font-size: 0.8em
+
+}
+
+footer i {
+    color: blue ;
+}
+
