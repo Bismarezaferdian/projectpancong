@@ -1,7 +1,8 @@
 <!-- jumbotron -->
 <div class="jumbotron text-center  ">
    
-    <img src="assets/img/pancongcoklat.png" class="rounded-circle "  style="width:250px; height:250px;" >
+    <img src="as
+    sets/img/pancongcoklat.png" class="rounded-circle "  style="width:250px; height:250px;" >
     <H1 >PANCONG KUY</H1>
     <h3>HEMAT | LEZAT | HIGIENIS</h3>
 
@@ -38,21 +39,21 @@
             <div class="col-sm-4 ">
                 
                 <a href="" >
-                     <img src="assets/img/ayam.png" class="img-thumbnail "  alt="ayam">
+                     <img src="assets/img/pancongcoklat.png" class="img-thumbnail "  alt="pancongcoklat">
                 </a>
                 
             </div>
 
             <div class="col-sm-4">
                 <a href="" >
-                     <img src="assets/img/ayam2.png" class="img-thumbnail" alt="ayam">
+                     <img src="assets/img/panconggreentea.png" class="img-thumbnail" alt="panconggreentea">
                     </a>
                 
             </div>
 
             <div class="col-sm-4">
                 <a href="" >
-                     <img src="assets/img/ayamasam.png" class="img-thumbnail" alt="ayam">
+                     <img src="assets/img/pancongoreo.png" class="img-thumbnail" alt="pancongoreo">
                 </a>
                 
             </div>
@@ -61,21 +62,21 @@
         <div class="row pt-5 ">
             <div class="col-sm-4">
                 <a href="" >
-                     <img src="assets/img/ayam.png" class="img-thumbnail " alt="ayam">
+                     <img src="assets/img/panconggreenteakeju.png" class="img-thumbnail " alt="panconggreenteakeju">
                 </a>
                 
             </div>
 
             <div class="col-sm-4">
                 <a href="" >
-                     <img src="assets/img/ayam2.png" class="img-thumbnail" alt="ayam">
+                     <img src="assets/img/pancong.png" class="img-thumbnail" alt="pancongmeseseres">
                 </a>
                 
             </div>
 
             <div class="col-sm-4">
                 <a href="" >
-                     <img src="assets/img/ayamasam.png" class="img-thumbnail" alt="ayam">
+                     <img src="assets/img/pancongcoklatkeju.png" class="img-thumbnail" alt="pancongcoklatkeju">
                 </a>
                 
             </div>
@@ -91,7 +92,7 @@
 <div class="container text-center">
     <div class="row">
         <div class="col-md-12">
-            <h2 >Contact Catringku</h2>
+            <h2 >Contact Pancongkuy</h2>
             <hr>
         </div>
     </div>

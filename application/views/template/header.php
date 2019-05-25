@@ -28,7 +28,7 @@
       <a class="nav-item nav-link text-white" href="#">Home <span class="sr-only">(current)</span></a>
       <a class="nav-item nav-link text-white " href="<?php echo base_url().'paket1' ?>">Pancong</a>
       <a class="nav-item nav-link text-white" href="<?php echo base_url().'paket2'?>">Drinks</a>
-      <a class="nav-item nav-link text-white" href="<?php echo base_url().'snacks'?>">Baby food</a>
+      <a class="nav-item nav-link text-white" href="<?php echo base_url().'snacks'?>">Snacks</a>
       
     </div>
   </div>
