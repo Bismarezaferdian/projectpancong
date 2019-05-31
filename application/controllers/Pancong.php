@@ -1,13 +1,13 @@
 <?php 
 
-class Paket2 extends CI_Controller{
+class Pancong extends CI_Controller{
 
 
     public function index()
     {
-        $data['judul']='PAKET2';
+        $data['judul']='PANCONG';
         $this->load->view('template/header', $data);
-        $this->load->view('paket2/index');
+        $this->load->view('pancong/index');
         $this->load->view('template/footer');
 
     }

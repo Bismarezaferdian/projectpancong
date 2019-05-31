@@ -26,8 +26,8 @@
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
       <a class="nav-item nav-link text-white" href="#">Home <span class="sr-only">(current)</span></a>
-      <a class="nav-item nav-link text-white " href="<?php echo base_url().'paket1' ?>">Pancong</a>
-      <a class="nav-item nav-link text-white" href="<?php echo base_url().'paket2'?>">Drinks</a>
+      <a class="nav-item nav-link text-white " href="<?php echo base_url().'pancong' ?>">Pancong</a>
+      <a class="nav-item nav-link text-white" href="<?php echo base_url().'drink'?>">Drinks</a>
       <a class="nav-item nav-link text-white" href="<?php echo base_url().'snacks'?>">Snacks</a>
       
     </div>

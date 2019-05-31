@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row pt-5">
       <div class="col-md-12">
-        <h2 class="text-center">SNACKS</h2>
+        <h2 class="text-center">SNACK</h2>
         <hr>
       </div>
     </div>
@@ -14,7 +14,7 @@
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Potatto barbeqiu</h5>
+        <h5 class="card-title">Potatto Barbeqiu</h5>
         <p class="card-text"><br> <strong>Rp 8.000</strong> </p>
         <input type="number" min="1" max="5" /> 
         <button type="button" class="btn btn-primary">Pesan</button>
