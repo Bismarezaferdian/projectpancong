@@ -7,12 +7,16 @@
         </div>
     </div>
 
+<!-- tombol tambah -->
+
     <div class="row pt-2 pb-4">
       <div class="col-md-12 text-center">
     <a class="btn btn-primary btn-a " href="">Tambah Menu</a>
     </div>
     </div>
 </div>
+
+<!-- menu minum -->
 
 <div class="card mb-3" style="max-width: 540px;">
   <div class="row no-gutters">
@@ -30,8 +34,6 @@
     </div>
   </div>
 </div>
-
-
 
 
 <div class="card mb-3" style="max-width: 540px;">
